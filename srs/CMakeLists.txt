@@ -54,7 +54,7 @@ target_include_directories(glad PUBLIC external/glad/include)
 find_package(OpenGL REQUIRED)
 
 # ---------------------------------------------------------------- Игра
-add_executable(tower_builder src/main.cpp)
+add_executable(tower_builder main.cpp)
 
 # Линкуем: окно (glfw), загрузчик функций (glad), математику (glm) и OpenGL.
 target_link_libraries(tower_builder PRIVATE glfw glad glm::glm OpenGL::GL)
