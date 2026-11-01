@@ -40,3 +40,41 @@ https://github.com/user-attachments/assets/c0967ac3-c183-46ba-bf97-88213ed80483
 
 https://github.com/user-attachments/assets/e8a4a4fa-dc1d-46c6-8fc2-864c9c88f9fa
 
+
+## Неделя 7
+### Неделя 7.1
+
+
+https://github.com/user-attachments/assets/5cd95945-2677-411e-8f64-990d6905faa9
+
+
+### Неделя 7.2
+
+
+https://github.com/user-attachments/assets/4a54a062-c4ce-4ce7-98b2-bc60c54487bc
+
+
+### Неделя 7.3
+
+
+https://github.com/user-attachments/assets/988c976f-8cdc-4753-9fdf-7b2689393a1c
+
+
+## Неделя 8
+### Неделя 8.1
+
+
+https://github.com/user-attachments/assets/570183bd-267e-48c4-a520-3cae5ad65cc6
+
+
+### Неделя 8.2
+
+
+https://github.com/user-attachments/assets/621b344d-24e5-4cee-8ae8-e76e4e252a42
+
+
+### Неделя 8.3
+
+
+https://github.com/user-attachments/assets/02194ddb-eedb-47e6-8504-0e74043e083f
+

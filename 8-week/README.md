@@ -4,12 +4,18 @@
 
 ## Задание 1 — тест глубины
 
-Видео: [videos/task1.mp4](videos/task1.mp4)
+
+https://github.com/user-attachments/assets/ca1a9208-bede-4a90-b871-b9c02b06f0c1
+
 
 ## Задание 2 — z-fighting
 
-Видео: [videos/task2.mp4](videos/task2.mp4)
+
+https://github.com/user-attachments/assets/c6da261e-414d-456e-a0bc-3e62a5c50a07
+
 
 ## Задание 3 — culling
 
-Видео: [videos/task3.mp4](videos/task3.mp4)
+
+https://github.com/user-attachments/assets/e02b48f9-683b-4c0f-a744-77b841734ba6
+
