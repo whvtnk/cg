@@ -18,3 +18,7 @@
 - `mouse_callback` — `firstMouse`, обратный `yoffset`, `sensitivity = 0.1`, ограничение pitch ±89°, `camFront` из yaw/pitch;
 - `scroll_callback` — `fov -= yoffset` в пределах 1°–45°;
 - в `glm::perspective` вместо постоянного `45.0f` стоит `fov`.
+
+
+https://github.com/user-attachments/assets/533275c1-19dd-4829-b49c-e253c762d121
+
