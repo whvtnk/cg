@@ -10,25 +10,6 @@
 От пустого окна до текстурированной 3D-сцены со свободной камерой — один и тот же рендерер,
 который каждую неделю получает новый этап графического конвейера.
 
-## Рос рендерера
-
-```mermaid
-flowchart LR
-    A["01<br/>окно<br/>FPS"] --> B["02<br/>VBO / VAO<br/>сетка"]
-    B --> C["03–04<br/>шейдеры<br/>delta time"]
-    C --> D["05<br/>EBO"]
-    D --> E["06<br/>примитивы<br/>wireframe"]
-    E --> F["07<br/>MVP<br/>проекции"]
-    F --> G["08<br/>depth test<br/>culling"]
-    G --> H["09<br/>камера<br/>lookAt"]
-    H --> I["10<br/>мышь<br/>yaw / pitch"]
-    I --> J["11<br/>текстуры<br/>mipmap"]
-    J --> K["12<br/>texture units<br/>mix"]
-    K -.-> L["13<br/>освещение"]
-    style K fill:#2ea44f,color:#fff
-    style L stroke-dasharray: 5 5
-```
-
 ## Недели
 
 | # | Тема | Ключевое | Код |
