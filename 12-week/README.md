@@ -55,3 +55,14 @@ https://github.com/user-attachments/assets/1efb347e-1356-41d3-ba15-764f2575a8e8
 
 
 **6. Қосымша тапсырмалар.** Үш текстура, `sin` арқылы автоматты `blend`, әр жаққа бөлек коэффициент және логотипті айналдыру.
+6.1 
+
+
+https://github.com/user-attachments/assets/48f758f6-2a36-49d5-b54a-dd7241361854
+
+
+6.2
+
+
+https://github.com/user-attachments/assets/1ce7771f-a4e5-4ffa-84c4-b82fe3f22f02
+
